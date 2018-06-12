@@ -113,9 +113,64 @@
   </url>
   
   <url>
+    <loc>/tags/expansionism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/foodways/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hawaii/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/history/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hospitality/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2018-06-12-pineapple/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/deer_hunting/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/sasafrass/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/imperialism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/mapping_foodways/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/pineapple/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/poke_sallet/</loc>
   </url>
   
   <url>
