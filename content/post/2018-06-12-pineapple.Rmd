@@ -1,10 +1,12 @@
 ---
 title: "How the pineapple connects the South to the North in Hawaii"
 author: "MK Lau"
-date: 12June2018
+date: "2018-06-12T18:25:22+05:30"
 categories: ["foodways"]
 tags: ["pineapple", "history", "Hawaii", "hospitality", "imperialism", "expansionism"]
 ---
+
+![Pineapple casserole](/img/pina_cass.jpg)
 
 ## Pineapple Casserole at a Southern Funeral
 
