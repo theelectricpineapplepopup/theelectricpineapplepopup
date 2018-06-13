@@ -78,31 +78,6 @@
   </url>
   
   <url>
-    <loc>/post/2018-06-12-pineapple/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/deer_hunting/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/mapping_foodways/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/poke_sallet/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/sasafrass/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -128,60 +103,7 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/expansionism/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/foodways/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hawaii/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/history/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hospitality/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/imperialism/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pineapple/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,32 +114,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-06-12T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
