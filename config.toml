@@ -16,8 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Pineapple, pineapple, pineapple, pineapple, pineapple"
   copyright = "&copy;2018 The Electric Pineapple Popup"
   sidebarAbout = [
-    	 "Exploring eidetic experiences",
-         "With my mind on my pineapple and my pineapple on my mind..."
+    	 "Equipping the consumer to realize the Pineapple of her own unique desires"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

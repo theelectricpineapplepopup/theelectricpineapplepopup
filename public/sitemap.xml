@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>/content/popup/work1/</loc>
+    <lastmod>2019-02-15T19:39:45-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -104,6 +109,12 @@
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/content/</loc>
+    <lastmod>2019-02-15T19:39:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   
