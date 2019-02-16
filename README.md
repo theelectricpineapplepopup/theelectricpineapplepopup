@@ -7,6 +7,6 @@ relationship between eater and eaten, a ruminative feedback loop
 equipping the consumer to realize the Pineapple of her own unique
 desires.
 
-![pina-watt](public/img/portfolio/EPp1.png)
+![pina-watt](public/img/portfolio/EPp9.png)
 
 _Inspired by The Electronic Tomato_ *Archigram* 1969
